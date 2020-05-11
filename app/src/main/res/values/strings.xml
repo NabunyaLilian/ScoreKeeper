@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="title_team_1">Team A</string>
+    <string name="title_team_2">Team B</string>
+    <string name="msg_score">score</string>
+    <string name="msg_score_value">0</string>
+    <string name="msg_fouls">fouls</string>
+    <string name="msg_foul_value">0</string>
+    <string name="msg_score_2">score</string>
+    <string name="msg_score_value_2">0</string>
+    <string name="msg_fouls_2">fouls</string>
+    <string name="msg_fouls_value_2">0</string>
+    <string name="action_goal">Goal</string>
+    <string name="action_foul">Foul</string>
+    <string name="action_goal_2">Goal</string>
+    <string name="action_foul_2">Foul</string>
+    <string name="action_reset">Reset</string>
+</resources>
